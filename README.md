@@ -3,7 +3,7 @@
 使用GitHub Pages功能公开的网页可以从[这里](https://elmas3.github.io/mao-seminar/)访问：
 https://elmas3.github.io/mao-seminar/
 
-#成员
+# 成员
 真央教授
 wakaba
 elmas
